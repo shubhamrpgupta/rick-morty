@@ -4,6 +4,7 @@ I have used the api to fetch the data and used React for frontend development. I
 ![Screenshot 2024-01-25 184203](https://github.com/shubhamrpgupta/rick-morty/assets/144988807/ddb029fe-2a26-4c79-b49d-4d974ecee8c3)
 ![Screenshot 2024-01-25 184221](https://github.com/shubhamrpgupta/rick-morty/assets/144988807/cb587f40-cc12-4985-aba2-1e08868737df)
 ![Screenshot 2024-01-25 184301](https://github.com/shubhamrpgupta/rick-morty/assets/144988807/f6aaf65a-8dee-4c8f-8190-20c5b9cd24a3)
+![Screenshot 2024-01-25 185617](https://github.com/shubhamrpgupta/rick-morty/assets/144988807/7226cc04-012c-4f59-b9b9-ffc5a9146362)
 
 
 
